@@ -33,6 +33,18 @@
 *.out
 *.app
 *.i*86
+
+# ignore tmp files
+.~lock.*
+~$*
+
+# ignore binary files
+*.exe
+
+# ignore compressed files
+*.rar
+*.7z
+*.zip
 *.x86_64
 *.hex
 
